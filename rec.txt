@@ -1,0 +1,17 @@
+asgiref==3.5.0
+Django==3.2.7
+django-filter==21.1
+django-model-utils==4.1.1
+djangorestframework==3.12.4
+Pillow==9.0.0
+psycopg2-binary==2.9.3
+pytz==2021.3
+sqlparse==0.4.2
+djangorestframework-simplejwt
+python-decouple
+drf-yasg
+celery==3.1.18
+django-celery==3.1.17
+django-redis==4.4.1
+kombu==3.0.34
+redis==2.10.5
